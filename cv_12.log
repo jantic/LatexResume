@@ -1,7 +1,7 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (MiKTeX 2.9 64-bit) (preloaded format=xelatex 2014.9.23)  23 SEP 2014 23:39
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (MiKTeX 2.9 64-bit) (preloaded format=xelatex 2014.9.23)  21 OCT 2017 23:56
 entering extended mode
 **cv_12.tex
-(C:\Users\Jason\Documents\LatexResume\cv_12.tex
+(F:\Dropbox\Dropbox\Projects\GitHub\LatexResume\cv_12.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -13,7 +13,7 @@ german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
 ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
 an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
 ishmax, welsh, loaded.
-(C:\Users\Jason\Documents\LatexResume\deedy-resume.cls
+(F:\Dropbox\Dropbox\Projects\GitHub\LatexResume\deedy-resume.cls
 Document Class: deedy-resume 2014/04/30 CV class
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
@@ -589,14 +589,14 @@ LaTeX Info: Redefining \upshape on input line 2102.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\fontspec\fontspec.cfg")))
 \g__file_internal_ior=\read1
 Requested font "[fonts/lato/Lato-Lig]/ICU" at 10.0pt
- -> C:/Users/Jason/Documents/LatexResume/fonts/lato/Lato-Lig.ttf
+ -> F:/Dropbox/Dropbox/Projects/GitHub/LatexResume/fonts/lato/Lato-Lig.ttf
 \g_fontspec_family_Lato-Lig_int=\count138
 Requested font "[fonts/lato/Lato-Reg]/ICU" at 10.0pt
- -> C:/Users/Jason/Documents/LatexResume/fonts/lato/Lato-Reg.ttf
+ -> F:/Dropbox/Dropbox/Projects/GitHub/LatexResume/fonts/lato/Lato-Reg.ttf
 Requested font "[fonts/lato/Lato-LigIta]/ICU" at 10.0pt
- -> C:/Users/Jason/Documents/LatexResume/fonts/lato/Lato-LigIta.ttf
+ -> F:/Dropbox/Dropbox/Projects/GitHub/LatexResume/fonts/lato/Lato-LigIta.ttf
 Requested font "[fonts/lato/Lato-RegIta]/ICU" at 10.0pt
- -> C:/Users/Jason/Documents/LatexResume/fonts/lato/Lato-RegIta.ttf
+ -> F:/Dropbox/Dropbox/Projects/GitHub/LatexResume/fonts/lato/Lato-RegIta.ttf
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -621,9 +621,10 @@ ta].
 .................................................
 Requested font "[fonts/lato/Lato-Lig]/ICU:script=latn;language=DFLT;color=2B2B2
 BFF ;" at 10.0pt
- -> C:/Users/Jason/Documents/LatexResume/fonts/lato/Lato-Lig.ttf
+ -> F:/Dropbox/Dropbox/Projects/GitHub/LatexResume/fonts/lato/Lato-Lig.ttf
 Requested font "[fonts/raleway/Raleway-ExtraLight]/ICU" at 10.0pt
- -> C:/Users/Jason/Documents/LatexResume/fonts/raleway/Raleway-ExtraLight.otf
+ -> F:/Dropbox/Dropbox/Projects/GitHub/LatexResume/fonts/raleway/Raleway-ExtraL
+ight.otf
 .................................................
 . fontspec info: "set-scale"
 . 
@@ -716,7 +717,7 @@ Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
 \titlewidthlast=\dimen162
 \titlewidthfirst=\dimen163
 ))
-(C:\Users\Jason\Documents\LatexResume\cv_12.aux)
+(F:\Dropbox\Dropbox\Projects\GitHub\LatexResume\cv_12.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
@@ -790,8 +791,8 @@ LaTeX Info: Redefining \ref on input line 24.
 LaTeX Info: Redefining \pageref on input line 24.
 LaTeX Info: Redefining \nameref on input line 24.
 
-(C:\Users\Jason\Documents\LatexResume\cv_12.out)
-(C:\Users\Jason\Documents\LatexResume\cv_12.out)
+(F:\Dropbox\Dropbox\Projects\GitHub\LatexResume\cv_12.out)
+(F:\Dropbox\Dropbox\Projects\GitHub\LatexResume\cv_12.out)
 \@outlinefile=\write3
 .................................................
 . fontspec info: "setup-math"
@@ -884,12 +885,14 @@ isodate: babel.sty, (n)german.sty have not been loaded
 .................................................
 Requested font "[fonts/raleway/Raleway-ExtraLight]/ICU:script=latn;language=DFL
 T;" at 10.0pt
- -> C:/Users/Jason/Documents/LatexResume/fonts/raleway/Raleway-ExtraLight.otf
+ -> F:/Dropbox/Dropbox/Projects/GitHub/LatexResume/fonts/raleway/Raleway-ExtraL
+ight.otf
 Requested font "[fonts/raleway/Raleway-ExtraLight]/ICU:script=latn;language=DFL
 T;" at 8.0pt
- -> C:/Users/Jason/Documents/LatexResume/fonts/raleway/Raleway-ExtraLight.otf
+ -> F:/Dropbox/Dropbox/Projects/GitHub/LatexResume/fonts/raleway/Raleway-ExtraL
+ight.otf
 Requested font "[fonts/lato/Lato-Hai]/ICU" at 40.0pt
- -> C:/Users/Jason/Documents/LatexResume/fonts/lato/Lato-Hai.ttf
+ -> F:/Dropbox/Dropbox/Projects/GitHub/LatexResume/fonts/lato/Lato-Hai.ttf
 \g_fontspec_family_Lato-Hai_int=\count150
 .................................................
 . fontspec info: "defining-font"
@@ -903,9 +906,9 @@ Requested font "[fonts/lato/Lato-Hai]/ICU" at 40.0pt
 . <->"[fonts/lato/Lato-Hai]/ICU:script=latn;language=DFLT;"
 .................................................
 Requested font "[fonts/lato/Lato-Hai]/ICU:script=latn;language=DFLT;" at 40.0pt
- -> C:/Users/Jason/Documents/LatexResume/fonts/lato/Lato-Hai.ttf
+ -> F:/Dropbox/Dropbox/Projects/GitHub/LatexResume/fonts/lato/Lato-Hai.ttf
 Requested font "[fonts/lato/Lato-Lig]/ICU" at 40.0pt
- -> C:/Users/Jason/Documents/LatexResume/fonts/lato/Lato-Lig.ttf
+ -> F:/Dropbox/Dropbox/Projects/GitHub/LatexResume/fonts/lato/Lato-Lig.ttf
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -918,9 +921,10 @@ Requested font "[fonts/lato/Lato-Lig]/ICU" at 40.0pt
 . <->"[fonts/lato/Lato-Lig]/ICU:script=latn;language=DFLT;"
 .................................................
 Requested font "[fonts/lato/Lato-Lig]/ICU:script=latn;language=DFLT;" at 40.0pt
- -> C:/Users/Jason/Documents/LatexResume/fonts/lato/Lato-Lig.ttf
+ -> F:/Dropbox/Dropbox/Projects/GitHub/LatexResume/fonts/lato/Lato-Lig.ttf
 Requested font "[fonts/raleway/Raleway-Medium]/ICU" at 10.0pt
- -> C:/Users/Jason/Documents/LatexResume/fonts/raleway/Raleway-Medium.otf
+ -> F:/Dropbox/Dropbox/Projects/GitHub/LatexResume/fonts/raleway/Raleway-Medium
+.otf
 \g_fontspec_family_Raleway-Medium_int=\count151
 .................................................
 . fontspec info: "defining-font"
@@ -938,10 +942,12 @@ Requested font "[fonts/raleway/Raleway-Medium]/ICU" at 10.0pt
 .................................................
 Requested font "[fonts/raleway/Raleway-Medium]/ICU:script=latn;language=DFLT;" 
 at 10.0pt
- -> C:/Users/Jason/Documents/LatexResume/fonts/raleway/Raleway-Medium.otf
+ -> F:/Dropbox/Dropbox/Projects/GitHub/LatexResume/fonts/raleway/Raleway-Medium
+.otf
 Requested font "[fonts/raleway/Raleway-Medium]/ICU:script=latn;language=DFLT;" 
 at 11.0pt
- -> C:/Users/Jason/Documents/LatexResume/fonts/raleway/Raleway-Medium.otf
+ -> F:/Dropbox/Dropbox/Projects/GitHub/LatexResume/fonts/raleway/Raleway-Medium
+.otf
 
 LaTeX Font Warning: Font shape `EU1/Lato-Lig(0)/m/sc' undefined
 (Font)              using `EU1/Lato-Lig(0)/m/n' instead on input line 46.
@@ -959,24 +965,14 @@ LaTeX Font Warning: Font shape `EU1/Lato-Lig(1)/m/sc' undefined
 (Font)              using `EU1/Lato-Lig(1)/m/n' instead on input line 46.
 
 Requested font "[fonts/lato/Lato-Lig]/ICU:script=latn;language=DFLT;" at 10.0pt
- -> C:/Users/Jason/Documents/LatexResume/fonts/lato/Lato-Lig.ttf
+ -> F:/Dropbox/Dropbox/Projects/GitHub/LatexResume/fonts/lato/Lato-Lig.ttf
 Requested font "[fonts/lato/Lato-Lig]/ICU:script=latn;language=DFLT;" at 16.0pt
- -> C:/Users/Jason/Documents/LatexResume/fonts/lato/Lato-Lig.ttf
+ -> F:/Dropbox/Dropbox/Projects/GitHub/LatexResume/fonts/lato/Lato-Lig.ttf
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\se-ascii-print.def"
 File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 
 )
 Underfull \hbox (badness 10000) in paragraph at lines 48--49
-
- []
-
-
-Underfull \hbox (badness 3989) in paragraph at lines 50--51
-\EU1/Lato-Lig(0)/m/n/10 am sought out quite often for help on
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 50--51
 
  []
 
@@ -989,7 +985,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 50--51
 . This font family consists of the following shapes:
 .................................................
 Requested font "[fonts/lato/Lato-Bol]/ICU" at 10.0pt
- -> C:/Users/Jason/Documents/LatexResume/fonts/lato/Lato-Bol.ttf
+ -> F:/Dropbox/Dropbox/Projects/GitHub/LatexResume/fonts/lato/Lato-Bol.ttf
 \g_fontspec_family_Lato-Bol_int=\count152
 .................................................
 . fontspec info: "defining-font"
@@ -1003,9 +999,9 @@ Requested font "[fonts/lato/Lato-Bol]/ICU" at 10.0pt
 . <->"[fonts/lato/Lato-Bol]/ICU:script=latn;language=DFLT;"
 .................................................
 Requested font "[fonts/lato/Lato-Bol]/ICU:script=latn;language=DFLT;" at 10.0pt
- -> C:/Users/Jason/Documents/LatexResume/fonts/lato/Lato-Bol.ttf
+ -> F:/Dropbox/Dropbox/Projects/GitHub/LatexResume/fonts/lato/Lato-Bol.ttf
 Requested font "[fonts/lato/Lato-Bol]/ICU:script=latn;language=DFLT;" at 12.0pt
- -> C:/Users/Jason/Documents/LatexResume/fonts/lato/Lato-Bol.ttf
+ -> F:/Dropbox/Dropbox/Projects/GitHub/LatexResume/fonts/lato/Lato-Bol.ttf
 
 LaTeX Font Warning: Font shape `EU1/Lato-Bol(0)/bx/n' undefined
 (Font)              using `EU1/Lato-Bol(0)/m/n' instead on input line 60.
@@ -1024,15 +1020,18 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 .................................................
 Requested font "[fonts/raleway/Raleway-Medium]/ICU:script=latn;language=DFLT;+s
 mcp;" at 10.0pt
- -> C:/Users/Jason/Documents/LatexResume/fonts/raleway/Raleway-Medium.otf
+ -> F:/Dropbox/Dropbox/Projects/GitHub/LatexResume/fonts/raleway/Raleway-Medium
+.otf
 Requested font "[fonts/raleway/Raleway-Medium]/ICU:script=latn;language=DFLT;+s
 mcp;" at 11.0pt
- -> C:/Users/Jason/Documents/LatexResume/fonts/raleway/Raleway-Medium.otf
+ -> F:/Dropbox/Dropbox/Projects/GitHub/LatexResume/fonts/raleway/Raleway-Medium
+.otf
 Requested font "[fonts/lato/Lato-Lig]/ICU:script=latn;language=DFLT;color=2B2B2
 BFF ;" at 11.0pt
- -> C:/Users/Jason/Documents/LatexResume/fonts/lato/Lato-Lig.ttf
+ -> F:/Dropbox/Dropbox/Projects/GitHub/LatexResume/fonts/lato/Lato-Lig.ttf
 Requested font "[fonts/raleway/Raleway-Medium]/ICU" at 11.0pt
- -> C:/Users/Jason/Documents/LatexResume/fonts/raleway/Raleway-Medium.otf
+ -> F:/Dropbox/Dropbox/Projects/GitHub/LatexResume/fonts/raleway/Raleway-Medium
+.otf
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -1051,7 +1050,7 @@ Requested font "[fonts/raleway/Raleway-Medium]/ICU" at 11.0pt
 .................................................
 Requested font "[fonts/lato/Lato-Reg]/ICU:script=latn;language=DFLT;color=2B2B2
 BFF ;" at 10.0pt
- -> C:/Users/Jason/Documents/LatexResume/fonts/lato/Lato-Reg.ttf
+ -> F:/Dropbox/Dropbox/Projects/GitHub/LatexResume/fonts/lato/Lato-Reg.ttf
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -1102,9 +1101,10 @@ BFF ;" at 10.0pt
 .................................................
 Requested font "[fonts/lato/Lato-Lig]/ICU:script=latn;language=DFLT;color=2B2B2
 BFF ;" at 12.0pt
- -> C:/Users/Jason/Documents/LatexResume/fonts/lato/Lato-Lig.ttf
+ -> F:/Dropbox/Dropbox/Projects/GitHub/LatexResume/fonts/lato/Lato-Lig.ttf
 Requested font "[fonts/raleway/Raleway-Medium]/ICU" at 12.0pt
- -> C:/Users/Jason/Documents/LatexResume/fonts/raleway/Raleway-Medium.otf
+ -> F:/Dropbox/Dropbox/Projects/GitHub/LatexResume/fonts/raleway/Raleway-Medium
+.otf
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -1115,7 +1115,72 @@ Requested font "[fonts/raleway/Raleway-Medium]/ICU" at 12.0pt
 .................................................
 Requested font "[fonts/raleway/Raleway-Medium]/ICU:script=latn;language=DFLT;+s
 mcp;" at 12.0pt
- -> C:/Users/Jason/Documents/LatexResume/fonts/raleway/Raleway-Medium.otf
+ -> F:/Dropbox/Dropbox/Projects/GitHub/LatexResume/fonts/raleway/Raleway-Medium
+.otf
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Raleway-Medium(0)' created for font 'Raleway-Medium' with
+. options [Path = fonts/raleway/].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Raleway-Medium(0)' created for font 'Raleway-Medium' with
+. options [Path = fonts/raleway/].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Raleway-Medium(0)' created for font 'Raleway-Medium' with
+. options [Path = fonts/raleway/].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Raleway-Medium(0)' created for font 'Raleway-Medium' with
+. options [Path = fonts/raleway/].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Raleway-Medium(0)' created for font 'Raleway-Medium' with
+. options [Path = fonts/raleway/].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Raleway-Medium(0)' created for font 'Raleway-Medium' with
+. options [Path = fonts/raleway/].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Raleway-Medium(0)' created for font 'Raleway-Medium' with
+. options [Path = fonts/raleway/].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Raleway-Medium(0)' created for font 'Raleway-Medium' with
+. options [Path = fonts/raleway/].
+. 
+. This font family consists of the following shapes:
+.................................................
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -1172,72 +1237,24 @@ mcp;" at 12.0pt
 . 
 . This font family consists of the following shapes:
 .................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'Lato-Bol(0)' created for font 'Lato-Bol' with options [Path =
-. fonts/lato/].
-. 
-. This font family consists of the following shapes:
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'Raleway-Medium(0)' created for font 'Raleway-Medium' with
-. options [Path = fonts/raleway/].
-. 
-. This font family consists of the following shapes:
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'Raleway-Medium(0)' created for font 'Raleway-Medium' with
-. options [Path = fonts/raleway/].
-. 
-. This font family consists of the following shapes:
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'Lato-Bol(0)' created for font 'Lato-Bol' with options [Path =
-. fonts/lato/].
-. 
-. This font family consists of the following shapes:
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'Raleway-Medium(0)' created for font 'Raleway-Medium' with
-. options [Path = fonts/raleway/].
-. 
-. This font family consists of the following shapes:
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'Raleway-Medium(0)' created for font 'Raleway-Medium' with
-. options [Path = fonts/raleway/].
-. 
-. This font family consists of the following shapes:
-.................................................
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 191.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 217.
 [1
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 191.
- (C:\Users\Jason\Documents\LatexResume\cv_12.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 191.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 191.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 217.
+ (F:\Dropbox\Dropbox\Projects\GitHub\LatexResume\cv_12.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 217.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 217.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 191.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 217.
  ) 
 Here is how much of TeX's memory you used:
  21333 strings out of 429025
- 390230 string characters out of 3167800
- 457200 words of memory out of 3000000
+ 390290 string characters out of 3167800
+ 458200 words of memory out of 3000000
  24398 multiletter control sequences out of 15000+200000
  4264 words of font info for 48 fonts, out of 3000000 for 9000
  912 hyphenation exceptions out of 8191
